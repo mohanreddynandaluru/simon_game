@@ -8,10 +8,7 @@ Repeat the sequence in the correct order by clicking the buttons.
 Each round adds a new step to the sequence.
 If you make a mistake, the game restarts!
 
-
 🛠️ Technologies Used
 HTML for structure
 CSS for styling
 JavaScript for game logic and interactivity
-
-
